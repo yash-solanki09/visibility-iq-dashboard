@@ -119,13 +119,7 @@ visibility-iq-dashboard/
 - Optimised the SQL queries behind the dashboard to cut refresh time
 - Used by operations stakeholders for fleet reviews
 
----
 
-## 📸 Screenshots
-
-*(Add screenshots taken in demo mode here, e.g. `![Battery tab](docs/battery.png)`)*
-
----
 
 ## 👤 Author
 
