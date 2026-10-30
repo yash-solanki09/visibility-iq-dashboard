@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+plotly
+sqlalchemy
+toml
+# Only needed for a live SQL Server connection (not for --mock demo mode):
+# pyodbc
